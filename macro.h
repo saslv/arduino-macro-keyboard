@@ -1,8 +1,9 @@
 const String macroArray[] = {
+    "git pull",
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     "The tense watch milks into the cheerful percentage.",
     "It was then the ratty chair met the meager cream.",
-    "The both hire replys into the scratchy exit."
+//    "The both hire replys into the scratchy exit."
 //    "The elliptical presentation can't carve the particular.",
 //    "Did the chunky boy really challenge the stuff?",
 //    "What if the breezy commission ate the source?",
